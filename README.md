@@ -37,10 +37,10 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmdmbrwk80&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yahia-Zakaria20&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br>
-<a href="https://komarev.com/ghpvc/?ahmdmbrwk80&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=ahmdmbrwk80&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?Yahia-Zakaria20&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Yahia-Zakaria20&style=for-the-badge">
 </a>
 
 
