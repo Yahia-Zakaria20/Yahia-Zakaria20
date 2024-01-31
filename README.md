@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrhmanhossam&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrhmanhossam" /> </p>
 
 - 🏢 I'm a Junior Backend developer using .Net 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
