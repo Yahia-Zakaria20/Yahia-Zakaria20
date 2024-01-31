@@ -22,7 +22,8 @@
 <a href="https://www.linkedin.com/in/yahia-zakaria-905b98246/" target="_blank"><img src="https://img.shields.io/badge/-Yahia%20Zakaria-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yahiazakaria369@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Yahia%20Zakaria-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yahia-Zakaria20&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrhmanhossam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yahia-Zakaria20&label=Profile%20views&color=0e75b6&style=flat" alt="Yahia-Zakaria20" /> </p>
+
 
 ### 🛠 &nbsp;Tech Stack
 <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL">&nbsp;
