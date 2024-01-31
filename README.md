@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrhmanhossam&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrhmanhossam" /> </p>
+
 
 - 🏢 I'm a Junior Backend developer using .Net 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
@@ -21,6 +21,8 @@
 
 <a href="https://www.linkedin.com/in/yahia-zakaria-905b98246/" target="_blank"><img src="https://img.shields.io/badge/-Yahia%20Zakaria-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yahiazakaria369@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Yahia%20Zakaria-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yahia-Zakaria20&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrhmanhossam" /> </p>
 
 ### 🛠 &nbsp;Tech Stack
 <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL">&nbsp;
