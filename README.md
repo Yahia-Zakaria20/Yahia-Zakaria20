@@ -16,6 +16,11 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C# and ASP.Net , or anything related to web development.
 
+ 
+
+ <img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 ### Connect with Me :
 
